@@ -1,0 +1,22 @@
+«import pdb; pdb.set_trace()» ==> Python stops - like $DB::single = 1;
+
+Executing Code Under PDB's control.
+
+«python -m pdb fib.py 5»
+
+«pdb.run([quoted code]» - in the python/ipython command prompt.
+«pdb.runcall(fib, 25)»
+
+«args» - which parameters were passed to the function.
+
+Evaluate expressions using «!». Python 3.2. added the "interact" command.
+
+«where» is a backtrace/stacktrace like «bt».
+
+«up» to move one frame up.
+
+«alias dr pp dir(%1)»
+
+«commands 1» - commands that are executed when the breakpoint is hit.
+
+«.pdbrc» - home directory and current directory.
