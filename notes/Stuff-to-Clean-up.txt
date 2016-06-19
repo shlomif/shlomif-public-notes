@@ -1,0 +1,16 @@
+This is a list of computerised resources that I need to cleanup / clean up
+/ purge / empty from time to time:
+
+#. Email inbox.
+
+#. RSS entries.
+
+#. Main Firefox bookmarks menu.
+
+#. Firefox Bookmarks "To Read" folder.
+
+#. Homesite's Files/files.
+
+#. Other stuff placed in the home site and not catalogued.
+
+#. GMail inbox.
