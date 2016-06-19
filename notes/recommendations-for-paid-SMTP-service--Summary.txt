@@ -1,0 +1,16 @@
+#. Someone on the list (thanks for replying to all recipients) told me to get
+a VM and setup and host the SMTP server myself. I found the solution not ideal
+for me.
+
+#. Someone recommended Amazon's SES offlist.
+
+#. Someone on the list recommended SendGrid:
+
+««««
+I can recommend SendGrid - They have Free Tier, Pay-as-you-go "Lite" Tiers,
+and low-cost "regular" Tiers. We've been using them for a bunch of years, now.
+They have great support; I had a Romania-based support guy help me this
+morning, Israel time, who didn't just tell me "call us later".
+»»»»
+
+
