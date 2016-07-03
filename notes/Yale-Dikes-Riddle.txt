@@ -1,0 +1,22 @@
+Alice, Bob, Carly, Dave, and Evelyn are taken to the police station for questioning. Detectives know that one of them is the thief and that only one of them tells the truth.
+
+Alice says, "I am not the thief."
+Bob says, "Alice is the thief."
+Carly says, "I am the thief."
+Dave says, "Carly is the thief."
+Evelyn says, "I am not the thief"
+
+Who is the thief?
+
+============
+
+Solution:
+
+If what Carly said is true, then so does what Dave said is, so there'll be
+two true statements. Therefore they are both false.
+
+Now we know that Carly cannot be the thief.
+
+What Alice and Bob say contradict each other , so one of these statements
+must be the true one. As a result, Evelyn's statement is false, and she is
+the thief.
