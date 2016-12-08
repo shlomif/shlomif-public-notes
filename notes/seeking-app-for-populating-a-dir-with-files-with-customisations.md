@@ -7,3 +7,26 @@ on some customisations, configurations, plugins and plugin-bundles.
 temporary build directory.
 
 2. Not be as centric to generating CPAN distributions.
+
+## Examples
+
+If I have something like that:
+
+```
+[@Shlomif::Sites]
+```
+
+Then it will generate [this dir](https://github.com/shlomif/perl-begin/tree/master/lib/Shlomif/Spelling) with the files there as well as
+[this file](https://github.com/shlomif/perl-begin/blob/master/Tests/spell-check.t) and [this file](https://github.com/shlomif/perl-begin/blob/master/Tests/spell-check-is-sorted.t)
+which I so far have tracked in several repositories,
+
+Note that I can have customisations:
+
+```
+[@Shlomif::Sites]
+test_files_dir = name
+```
+
+## References
+
+* [Draft of a document of the Dist-Zilla 's dist.ini format](https://github.com/shlomif/dzil-dist-ini-format-documentation)
