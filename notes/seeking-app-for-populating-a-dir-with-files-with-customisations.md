@@ -27,6 +27,11 @@ Note that I can have customisations:
 test_files_dir = name
 ```
 
+## Update
+
+I ran into [cookiecutter](https://github.com/audreyr/cookiecutter) which
+seems to do what I want.
+
 ## References
 
 * [Draft of a document of the Dist-Zilla 's dist.ini format](https://github.com/shlomif/dzil-dist-ini-format-documentation)
