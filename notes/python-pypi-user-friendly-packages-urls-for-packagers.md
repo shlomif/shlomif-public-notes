@@ -1,3 +1,5 @@
+#. Python PyPI user-friendly package/tarball URLs for packagers.
+
 See the Mageia ipython package :
 
 ```
