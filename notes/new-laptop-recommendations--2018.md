@@ -36,3 +36,6 @@ requirements:
         - bash / zsh / konsole
     - Freecell/solitaire/etc. research
         - need RAM!
+- I don't mind paying the Microsoft tax, but probably won't use Windows 10 much
+    - https://www.mail-archive.com/wikimedia-l@lists.wikimedia.org/msg30001.html
+    - https://www.gnu.org/philosophy/malware-microsoft.html
