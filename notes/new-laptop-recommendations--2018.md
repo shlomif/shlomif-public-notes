@@ -18,3 +18,21 @@ requirements:
 - 16 GB of RAM at the very least with 24 GB, 32 GB or more preferable
 - CD/DVD/BluRay not required
     - I can use USB ports
+- Will run a GNU/Linux OS:
+    - Hopefully Mageia 6/7 or Fedora.
+    - Experiences with other distributions are fair game as well.
+    - Not an FSF purist (I mean https://www.gnu.org/distros/free-distros.html )
+    - I am fine with most "non-free" firmware
+- Uses:
+    - Plasma 5 (KDE) desktop with a fallback on Xfce and JWM.
+    - VirtualBox/KVM/etc. virtual machines
+    - Desktop effects
+    - Software development.
+        - gcc/g++
+        - python / pypy
+        - node.js
+        - Perl 5 / CPAN
+        - gvim / vim / neovim
+        - bash / zsh / konsole
+    - Freecell/solitaire/etc. research
+        - need RAM!
