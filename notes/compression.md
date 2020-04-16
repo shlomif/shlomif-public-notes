@@ -18,6 +18,8 @@
 
 * [optipng](http://optipng.sourceforge.net/)
 * [lepton](https://github.com/dropbox/lepton) - losslessly compress JPEGs.
+* [packMP3](https://github.com/packjpg/packMP3) - lossless compression of mp3s (saw on the lepton README)
+    * [Fix build](https://github.com/packjpg/packMP3/pull/7)
 
 ## License
 
