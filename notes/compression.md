@@ -20,6 +20,7 @@
 * [lepton](https://github.com/dropbox/lepton) - losslessly compress JPEGs.
 * [packMP3](https://github.com/packjpg/packMP3) - lossless compression of mp3s (saw on the lepton README)
     * [Build / compilation fix](https://github.com/packjpg/packMP3/pull/7)
+* [XMLPPM: XML-Conscious Compression](http://xmlppm.sourceforge.net/)
 
 ## License
 
