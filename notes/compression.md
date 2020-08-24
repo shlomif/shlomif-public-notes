@@ -6,7 +6,7 @@
     * [lzip](https://en.wikipedia.org/wiki/Lzip) - `.lz` under the GPL
 * [zstd](https://en.wikipedia.org/wiki/Zstandard) - reportedly very fast
 * [Brotli](https://en.wikipedia.org/wiki/Brotli) - improves on gzip compression
-* [lz4](https://en.wikipedia.org/wiki/LZ4_%28compression_algorithm%29) - fast but "slighyly worse" compression ratio
+* [lz4](https://en.wikipedia.org/wiki/LZ4_%28compression_algorithm%29) - fast but "slightly worse" compression ratio
 * [lrzip](https://github.com/ckolivas/lrzip) - supports ZPAQ for efficient but slow compression
 
 ## Documents
