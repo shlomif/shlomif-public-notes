@@ -1,9 +1,10 @@
 # Resources about Compression
 
-* [gzip](https://en.wikipedia.org/wiki/Gzip)
-* [bzip2](https://en.wikipedia.org/wiki/Bzip2)
-* [xz](https://en.wikipedia.org/wiki/Xz)
+* [gzip](https://en.wikipedia.org/wiki/Gzip) - commonly used
+* [bzip2](https://en.wikipedia.org/wiki/Bzip2) - better ratio than gzip on average, but slower.
+* [xz](https://en.wikipedia.org/wiki/Xz) - better ratio than bzip2 on average, but slower.
     * [lzip](https://en.wikipedia.org/wiki/Lzip) - `.lz` under the GPL
+    * [LZMA](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm) - the algorithm they are based on (as used by 7z).
 * [zstd](https://en.wikipedia.org/wiki/Zstandard) - reportedly very fast
 * [Brotli](https://en.wikipedia.org/wiki/Brotli) - improves on gzip compression
 * [lz4](https://en.wikipedia.org/wiki/LZ4_%28compression_algorithm%29) - fast but "slightly worse" compression ratio
