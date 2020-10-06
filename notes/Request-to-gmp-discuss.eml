@@ -1,0 +1,77 @@
+In-Reply-To: <mailman.0.1600274803.28566.gmp-discuss@gmplib.org>
+References: <mailman.0.1600274803.28566.gmp-discuss@gmplib.org>
+X-Pm-Origin: internal
+X-Pm-Content-Encryption: on-compose
+Subject: Re: Request to mailing list gmp-discuss rejected
+To: gmp-discuss-owner@gmplib.org <gmp-discuss-owner@gmplib.org>
+From: shlomif.geha <shlomif.geha@protonmail.com>
+Date: Fri, 18 Sep 2020 05:57:34 +0000
+Mime-Version: 1.0
+Content-Type: multipart/mixed;boundary=---------------------5db056c13b52793ea91486cca6c8029d
+Message-Id: <rpv3BZMYV-CPAqf3dYRhovuLw8mmZYm5pSJo__iZEaupyZI47ccJHGwMzVyR-k8UPxbrgNtnpFAyQrVmJ6seOYUrrogTTqo0VoquZfzn1qg=@protonmail.com>
+X-Pm-Recipient-Authentication: gmp-discuss-owner%40gmplib.org=none
+X-Pm-Recipient-Encryption: gmp-discuss-owner%40gmplib.org=none
+
+-----------------------5db056c13b52793ea91486cca6c8029d
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;charset=utf-8
+
+Hi!
+
+Thanks for maintaining GNU MP gmplib.org and its email infrastructure, and=
+ for accepting the first copy of my post, and I'm sorry for sending more t=
+han one. The problem I faced was that although I was subscribed:
+
+1. The post didn't arrive at the archive for several days.
+
+2. I didn't get a bounce that it was rejected.
+
+3. I didn't get a notice that it was held for moderation.
+
+4. Sending an email from my gmail address to gmp-discuss-owner asking for =
+the status bounced/was rejected as spam.
+
+5. I couldn't find any other (and hopefully more reliable) medium than ema=
+il for contacting GNU MP's developers on https://gmplib.org/ .
+
+---------
+
+So while ideally I wish that I could submit only one copy of the post and =
+it would have promptly arrived at the list and the archive, I assumed it w=
+as silently classified as spam and dropped (or similar).
+
+I suggest fixing one or more of the issues I faced in order to prevent fur=
+ther dissatisfaction by all parties.
+
+Thanks again.
+
+Best regards,
+
+   -- Shlomi Fish
+
+
+Sent with ProtonMail Secure Email.
+
+=E2=80=90=E2=80=90=E2=80=90=E2=80=90=E2=80=90=E2=80=90=E2=80=90 Original M=
+essage =E2=80=90=E2=80=90=E2=80=90=E2=80=90=E2=80=90=E2=80=90=E2=80=90
+On Wednesday, September 16, 2020 7:46 PM, <gmp-discuss-owner@gmplib.org> w=
+rote:
+
+> Your request to the gmp-discuss mailing list
+>
+> Posting of your message titled "[Request for comments] Potential
+> room for speedup when calculating divmod() of bases with many trailing
+> 0 bits (in binary)"
+>
+> has been rejected by the list moderator. The moderator gave the
+> following reason for rejecting your request:
+>
+> "Three copies of the same post? What is wrong with you?"
+>
+> Any questions or comments should be directed to the list administrator
+> at:
+>
+> gmp-discuss-owner@gmplib.org
+
+
+-----------------------5db056c13b52793ea91486cca6c8029d--
