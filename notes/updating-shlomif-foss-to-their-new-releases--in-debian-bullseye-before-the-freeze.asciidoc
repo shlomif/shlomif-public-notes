@@ -1,10 +1,20 @@
 updating-shlomif-foss-to-their-new-releases--in-debian-bullseye-before-the-freeze
 =================================================================================
-
 Shlomi Fish <shlomif@cpan.org>
 :Date: 2020-11-20
 :Revision: $Id$
 
+
+[id="objective"]
+Objective:
+----------
+
+Some of the FOSS packages/applications/libraries I originated, maintain
+or co-maintain have Debian packages. However, some of them have
+outdated upstream release versions in https://wiki.debian.org/DebianUnstable[Debian unstable/"sid"].
+Since the Debian Bullseye freezes are approaching, I'd like to try to
+get the deb packages updated to the new versions (which contain many
+fixes and enhancements).
 
 [id="the_programs"]
 The programs
