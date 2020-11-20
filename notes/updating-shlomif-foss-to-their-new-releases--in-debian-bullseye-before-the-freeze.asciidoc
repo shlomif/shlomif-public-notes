@@ -1,0 +1,51 @@
+updating-shlomif-foss-to-their-new-releases--in-debian-bullseye-before-the-freeze
+=================================================================================
+
+Shlomi Fish <shlomif@cpan.org>
+:Date: 2020-11-20
+:Revision: $Id$
+
+
+[id="the_programs"]
+The programs
+------------
+
+* Get new versions of my FOSS packaged for Debian Bullseye
+** https://wiki.debian.org/DebianBullseye
+** https://github.com/shlomif/PySolFC/issues/190
+*** Prepare a new stable release ( 2.12.0 )
+** https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=953574
+*** python-pysol-cards
+** https://mail.google.com/mail/u/0/#search/debian/QgrcJHsThhfFgxFjLHxTKTNjSwmbTnzdzqb
+*** Freecell Solver
+
+
+[quote]
+----
+>
+> There is now an ITP here: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=953574 .
+>
+
+Hi Gergely!
+
+Ping! Can the python-pysol_cards package be sponsored by you?
+
+I'd like to get the new freecell-solver release (
+https://github.com/shlomif/fc-solve/releases/tag/freecell-solver-6.2.0
+) packaged in debian before the https://wiki.debian.org/DebianBullseye
+freeze. Also note that my mother said once that "The lazy man ends up
+working twice as hard.". investing the time to do something as best as
+possible at first often ends up saving time later. (Sorry if I'm being
+too preachy.)
+----
+
+Gergely is https://nm.debian.org/person/risko/ ;I'm not sure whether "Risko"
+or "Gergely" are his first name, and which ones he prefers to be called by.
+He is the Debian maintainer of https://packages.debian.org/source/sid/freecell-solver
+and noted that the upstream source requires some new build deps.
+
+* Fortune-mod:
+** https://github.com/shlomif/fortune-mod
+** https://pkgs.org/download/fortune-mod
+** https://salsa.debian.org/shlomif-guest/fortune-mod
+** https://packages.debian.org/sid/fortune-mod
