@@ -59,3 +59,15 @@ and noted that the upstream source requires some new build deps.
 ** https://pkgs.org/download/fortune-mod
 ** https://salsa.debian.org/shlomif-guest/fortune-mod
 ** https://packages.debian.org/sid/fortune-mod
+
+[id="license"]
+License:
+--------
+
+Your options of:
+
+1. Public Domain / CC-Zero.
+
+2. CC-by.
+
+3. MIT/Expat license.
