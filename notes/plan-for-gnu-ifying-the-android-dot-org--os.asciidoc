@@ -1,0 +1,6 @@
+Proto-plan for making the android.org OS more GNU-based
+=======================================================
+
+A problem with the Android mobile operating system ( https://en.wikipedia.org/wiki/Android_%28operating_system%29 )
+is that it is a GNU-like-system but-almost-entirely-unlike-GNU/Linux ( to paraphrase on
+https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy ).
