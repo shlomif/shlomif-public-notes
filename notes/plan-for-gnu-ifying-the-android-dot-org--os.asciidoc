@@ -8,11 +8,27 @@ developing for it unnecessarily harder (even if it is better than developing
 for Symbian or iOS, but "good is the enemy of great").
 
 I was told the reason is political and legal (avoiding gnu.org copylefted code due to the
-FSF concern for https://en.wikipedia.org/wiki/Tivoization ), so it is partly human-made
+FSF concern for https://en.wikipedia.org/wiki/Tivoization ), so it is partly a human-made
 problem.
 
-Can the FSF negotiate a pledge/contract with android.org (that shall apply for everyone) to make the gnu.org runtime suitable with it? (And gradually make android a bonafide gnu/linuxy system)
+Can the FSF negotiate a pledge/contract with android.org (that shall apply for
+everyone) to make the gnu.org runtime suitable with it? (And gradually make
+android a bonafide gnu/linuxy system) It could be version 3.1 of the GPL/LGPL or
+something else (IANAL/etc.)
 
 I realise every two lawyers have three opinions but I think most lawyers are good and
 smart people, who have better things to do than create artificial problems. (See
 "I never met a monster I didn't like" on https://www.youtube.com/watch?v=lQALLGsn-Fk .)
+
+Yet another anecdote is the acrophyical lawsuit over the large inheritance of
+https://en.wikipedia.org/wiki/William_Jennens between two branches of his
+family that has continued for well over a century and ended up when all
+the money was consumed by lawyer fees. While this has made many lawyers
+slightly "richer", it also likely made them busy performing tasks
+they'd rather not do (see: "amateur" as someone who enjoys his work
+https://www.shlomifish.org/humour/fortunes/show.cgi?id=paul-graham-what-ameteur-meant )
+more grumpy and unhappy. "You can no more win a lawsuit than you can win an eathquake."
+
+Thanks!
+
+-- Shlomi Fish
