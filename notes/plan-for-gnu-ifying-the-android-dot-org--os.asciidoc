@@ -7,4 +7,12 @@ https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy ). This ma
 developing for it unnecessarily harder (even if it is better than developing
 for Symbian or iOS, but "good is the enemy of great").
 
+I was told the reason is political and legal (avoiding gnu.org copylefted code due to the
+FSF concern for https://en.wikipedia.org/wiki/Tivoization ), so it is partly human-made
+problem.
 
+Can the FSF negotiate a pledge/contract with android.org (that shall apply for everyone) to make the gnu.org runtime suitable with it? (And gradually make android a bonafide gnu/linuxy system)
+
+I realise every two lawyers have three opinions but I think most lawyers are good and
+smart people, who have better things to do than create artificial problems. (See
+"I never met a monster I didn't like" on https://www.youtube.com/watch?v=lQALLGsn-Fk .)
