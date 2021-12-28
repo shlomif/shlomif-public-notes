@@ -27,7 +27,7 @@
 
 ## License
 
-It is hereby placed under a triple
+This document is hereby placed under a triple
 [MIT/Expat licence](http://en.wikipedia.org/wiki/MIT_License) /
 [CC0](https://creativecommons.org/choose/zero/) /
 [CC-by 4.0](https://creativecommons.org/licenses/by/4.0/) (or at your option
