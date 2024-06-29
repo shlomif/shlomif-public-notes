@@ -16,6 +16,8 @@
 * [Compression FAQ](http://www.faqs.org/faqs/compression-faq/)
 * [Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding)
 * [Arithmetic coding](https://en.wikipedia.org/wiki/Arithmetic_coding)
+* [Wikipedia’s Compression methods template](https://en.wikipedia.org/wiki/Template:Compression_methods)
+* [Awesome C++ (on GitHub)](https://github.com/fffaraz/awesome-cpp?tab=readme-ov-file#compression)
 
 ## Tools
 
