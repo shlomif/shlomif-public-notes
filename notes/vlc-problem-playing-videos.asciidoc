@@ -1,0 +1,3 @@
+Hi all! On fedora40-x86-64 , “ /opt/vlc-3.0/bin/vlc https://www.shlomifish.org/Files/files/video/vlc-fedora40-x64-empty-video-display.mp4 ” does not display the video, while playing the audio. It happens with many other *.mp4 files too. Doesn't happen with mpv or with most *.webm files. “[00007f310102cdf0] avcodec decoder error: avcodec_send_packet critical error”
+
+Hi. Based on https://discussion.fedoraproject.org/t/video-playback-broken-after-upgrading-to-f39-libopenh264-so-7-is-missing-openh264-support-will-be-disabled/100019/19 seems like “dnf5 install ffmpeg libavcodec-freeworld vlc --allowerasing” fixes the issue.
