@@ -1,3 +1,3 @@
 The public notes of [Shlomi Fish](http://www.shlomifish.org/).
 
-Licence is All Rights Reserved and somewhat personal/private.
+Licence is CC-by-nc-sa and somewhat personal/private.
